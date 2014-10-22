@@ -1,0 +1,9 @@
+body {
+ /* padding-top: 50px;*/
+}
+
+.jumbotron {
+  height: 400px;
+  /*background: url('cover.jpg') no-repeat center center;*/
+  background-color: #d3d3d3;
+}
